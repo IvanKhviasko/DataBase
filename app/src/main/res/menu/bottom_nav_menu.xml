@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/btn_menu"
+        android:icon="@drawable/ic_baseline_menu_24"
+        android:orderInCategory="1"
+        android:title="@string/menu" />
+
+    <item
+        android:id="@+id/btn_list_db"
+        android:icon="@drawable/ic_baseline_save_alt_24"
+        android:orderInCategory="2"
+        android:title="@string/list" />
+
+</menu>

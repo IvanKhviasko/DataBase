@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">DataBase</string>
+    <string name="app_name">HW4DataBase</string>
+    <string name="hint_country_name">Country name:</string>
+    <string name="hint_capital_name">Capital name:</string>
+    <string name="title_toolbar">Toolbar</string>
+    <string name="toolbar_menu_search_title">Search</string>
+    <string name="menu">Menu</string>
+    <string name="list">List</string>
+    <string name="add">Add</string>
 </resources>
